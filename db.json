@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Rodri",
+      "empresa": "Simp",
+      "email": "erre@correo.com",
+      "telefono": "45678",
+      "notas": "dicen que sos lo que comes pero no recuerdo haber comido un fracaso",
+      "id": 2
+    },
+    {
+      "nombre": "Topo",
+      "empresa": "Tintoreria El Topos",
+      "email": "eme@correo.com",
+      "telefono": "4523456",
+      "notas": "Dale que entras Topo",
+      "id": 3
+    },
+    {
+      "nombre": "Franco",
+      "empresa": "+Sola SA",
+      "email": "efe@correo.com",
+      "telefono": "6969696969",
+      "notas": "Pero que macizo",
+      "id": 4
+    },
+    {
+      "nombre": "Dami",
+      "empresa": "Memes Shitpost SRL",
+      "email": "de@correo.com",
+      "telefono": "3465827",
+      "notas": "*se muere de risa* ",
+      "id": 5
+    }
+  ]
+}
